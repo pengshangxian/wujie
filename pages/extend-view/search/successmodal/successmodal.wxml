@@ -1,0 +1,6 @@
+<!--pages/extend-view//search/successmodal/successmodal.wxml-->
+<view class="container">
+  <image src="http://imgs1.yyjswork.com/ProductTemp/0201/10/20/WJ202011020533464569/de6aceaffc064d9eb2235d4683996f91.png"></image>
+  <view class="firsttips">您的反馈已成功提交</view>
+  <view class="secondtips">我们将在找到商品后第一时间与您联络 请留意信息，谢谢</view>
+</view>
